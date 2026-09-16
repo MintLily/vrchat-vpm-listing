@@ -1,6 +1,6 @@
 {
     "name":"Minty Labs' VPM Repo",
-    "id":"io.github.minty-labs.vrchat-vpm-listing",
+    "id":"dev.mintylabs.vpm",
     "url":"https://minty-labs.github.io/vrchat-vpm-listing/index.json",
     "author":{
         "name":"MintLily",
@@ -11,7 +11,7 @@
         "url":"https://mintlily.lgbt/",
         "text":"See what else this developer is up to"
     },
-    "bannerUrl":"https://raw.githubusercontent.com/Minty-Labs/vrchat-vpm-listing/refs/heads/main/Website/ml_banner.webp",
+    "bannerUrl":"ml_banner.webp",
     "githubRepos":[
         "Minty-Labs/OpenInImageEditor"
     ],
