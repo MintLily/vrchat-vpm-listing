@@ -8,10 +8,10 @@
     },
     "description":"A collection of random Unity Tools made for VRChat avatar and world developement.",
     "infoLink":{
-        "url":"https://github.com/Minty-Labs/vrc-vpm",
-        "text":"Learn More about VPMs"
+        "url":"https://mintlily.lgbt/",
+        "text":"See what else this developer is up to"
     },
-    "bannerUrl":"https://raw.githubusercontent.com/Minty-Labs/vrc-vpm/refs/heads/main/Website/ml_banner.webp",
+    "bannerUrl":"https://raw.githubusercontent.com/Minty-Labs/vrchat-vpm-listing/refs/heads/main/Website/ml_banner.webp",
     "githubRepos":[
         "Minty-Labs/OpenInImageEditor"
     ],
