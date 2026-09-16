@@ -1,7 +1,7 @@
 :root {
   color-scheme: light dark;
   --dv_bg-top: #1e2427;
-  /* --dv_bg-mid: #191F22; */
+  --dv_bg-mid: #191F22;
   --dv_bg-bot: #131719;
   --dv_bright: #EECCE0;
   --dv_muted: #906D92;
@@ -479,4 +479,13 @@ fluent-anchored-region::part(tooltip) {
 fluent-anchored-region::part(tooltip)::after {
   background: var(--dv_bg-top);
   border-color: var(--dv_bg-top);
+}
+
+.control[role="dialog"] {
+  background-color: var(--dv_bg-mid);
+}
+
+.overlay {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
