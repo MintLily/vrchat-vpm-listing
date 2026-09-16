@@ -13,7 +13,8 @@
     },
     "bannerUrl":"ml_banner.webp",
     "githubRepos":[
-        "Minty-Labs/OpenInImageEditor"
+        "Minty-Labs/OpenInImageEditor",
+        "Minty-Labs/SceneViewStatisticDisplay"
     ],
     "packages":[]
 }
