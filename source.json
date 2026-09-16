@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Minty Labs' VPM Repo",
+    "id":"io.github.minty-labs.vrc-vpm",
+    "url":"https://minty-labs.github.io/vrc-vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"MintLily",
+        "url":"https://github.com/MintLily"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A collection of random Unity Tools made for VRChat avatar and world developement.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://github.com/Minty-Labs/vrc-vpm",
+        "text":"Learn More about VPMs"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"https://raw.githubusercontent.com/Minty-Labs/vrc-vpm/refs/heads/main/Website/ml_banner.webp",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Minty-Labs/OpenInImageEditor"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
